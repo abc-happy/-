@@ -129,3 +129,5 @@ api.m.jd.com
 jvod.300hu.com
 c.3.cn
 api2.coolapk.com
+adashbc.ut.taobao.com
+access1.tpns.tencent.com
