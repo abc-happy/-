@@ -119,3 +119,4 @@ adsmind.gdtimg.com
 tangram.e.qq.com
 apps.samsung.com
 h5.gdt.qq.com
+apps.samsung.com
