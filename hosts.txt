@@ -122,3 +122,4 @@ h5.gdt.qq.com
 c.gdt.qq.com
 rdap.apnic.net
 whois.apnic.net
+api.coolapk.com
