@@ -124,3 +124,8 @@ rdap.apnic.net
 whois.apnic.net
 api.coolapk.com
 wqs.jd.com
+mapi.m.jd.com
+api.m.jd.com
+jvod.300hu.com
+c.3.cn
+api2.coolapk.com
