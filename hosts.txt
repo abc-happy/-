@@ -132,3 +132,4 @@ api2.coolapk.com
 adashbc.ut.taobao.com
 access1.tpns.tencent.com
 api-access.pangolin-sdk-toutiao1.com
+mp.weixin.qq.com
