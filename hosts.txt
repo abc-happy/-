@@ -123,3 +123,4 @@ c.gdt.qq.com
 rdap.apnic.net
 whois.apnic.net
 api.coolapk.com
+wqs.jd.com
