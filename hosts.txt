@@ -2,11 +2,9 @@
 ::1 localhost
 
 #pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
-#---------------------------------------
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
 127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
-#---------------------------------------
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社区 
 127.0.0.1 szlong.weixin.qq.com
 127.0.0.1 galaxystore.ad-survey.com
@@ -162,7 +160,6 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 eco.taobao.compgdt.gtimg.cn
 127.0.0.1 szextshort.weixin.qq.com
-
 #--下列会影响奖励形式的广告(小程序\小游戏等)
 127.0.0.1 is.snssdk.com
 127.0.0.1 adsmind.gdtimg.com
@@ -186,9 +183,7 @@
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 ipv4.gdt.qq.com
 127.0.0.1 v6ii.gdt.qq.com
-
 #pkg=ad.xiaomi.com;视频客户端广告
-#--小米视频-MIUI
 127.0.0.1 video.market.xiaomi.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 t2.a.market.xiaomi.com
@@ -497,7 +492,6 @@
 127.0.0.1 adv.fjtv.net
 127.0.0.1 dsa-mfp.fengshows.cn
 127.0.0.1 sdk.cferw.com
-
 #pkg=ad.adwars.com;大圣净化规则
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 wxa.wxs.qq.com
@@ -988,7 +982,6 @@
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 app-measurement.com
 127.0.0.1 beacons.gcp.gvt2.com
-
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 ads.google.com
 127.0.0.1 www.googleadservices.com
@@ -1208,7 +1201,6 @@
 127.0.0.1 s1.2mdn.net
 127.0.0.1 media.admob.com
 127.0.0.1 ssl.google-analytics.com
-
 #pkg=baidu.com;百度广告服务
 127.0.0.1 adm.baidu.com
 127.0.0.1 ad.player.baidu.com
@@ -1278,7 +1270,6 @@
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 sa8.tuisong.baidu.com
 127.0.0.1 cpro.baidustatic.com
-
 #pkg=qq.com;腾讯广告服务
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adping.qq.com
@@ -1358,7 +1349,6 @@
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 cc.map.qq.com
 127.0.0.1 aegis.qq.com
-
 #pkg=alibaba.com;阿里广告服务
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -1394,7 +1384,6 @@
 127.0.0.1 adashx4yt.m.taobao.com
 127.0.0.1 h-adashx4yt.ut.taobao.com
 127.0.0.1 umdc.aliapp.org
-
 #pkg=xxx.ad.doubleclick.net;广告联盟
 127.0.0.1 iqiyi.irs01.com
 127.0.0.1 letv.irs01.com
@@ -1893,7 +1882,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-
 #pkg=adx.regex.com;通配符拦截（强力但难免存在误伤）
 127.0.0.1 *.irs01.com
 127.0.0.1 *.irs01.net
