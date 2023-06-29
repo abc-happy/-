@@ -2,7 +2,7 @@
 ::1 localhost
 
 20.205.243.166 github.com     〉直连
-142.251.43.10 translate.googleapis.com  >谷歌翻译
+172.217.163.42 translate.googleapis.com  >谷歌翻译
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 #pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
