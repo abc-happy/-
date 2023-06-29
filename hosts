@@ -1,7 +1,8 @@
 127.0.0.1 localhost
 ::1 localhost
 
-20.205.243.166 github.com
+20.205.243.166 github.com     〉直连
+142.251.43.10 translate.googleapis.com  >谷歌翻译
 #pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
