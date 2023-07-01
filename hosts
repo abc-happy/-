@@ -116,7 +116,6 @@
 127.0.0.1 dorangesource.alicdn.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 mpush-api.aliyun.com
-127.0.0.1 lf26-reward-sign.pglstatp-toutiao.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 dm-hl.toutiao.com
@@ -165,10 +164,6 @@
 127.0.0.1 szextshort.weixin.qq.com
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 ads.google.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 google-analytics.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 www.googletagmanager.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead2.googleadservices.com
@@ -186,14 +181,12 @@
 127.0.0.1 click.buzzcity.net
 127.0.0.1 stats.pflexads.com
 127.0.0.1 a.glcdn.co
-127.0.0.1 wwww.adleads.com
 127.0.0.1 apps.buzzcity.net
 127.0.0.1 ads.mobgold.com
 127.0.0.1 android.bcfads.com
 127.0.0.1 show.buzzcity.net
 127.0.0.1 api.analytics.omgpop.com
 127.0.0.1 r.edge.inmobicdn.net
-127.0.0.1 www.mmnetwork.mobi
 127.0.0.1 img.ads.huntmad.com
 127.0.0.1 creative1cdn.mobfox.com
 127.0.0.1 admicro1.vcmedia.vn
@@ -229,7 +222,6 @@
 127.0.0.1 ads.mobilityware.com
 127.0.0.1 ads.admarvel.com
 127.0.0.1 netdna.reporo.net
-127.0.0.1 www.eltrafiko.com
 127.0.0.1 cdn.trafficforce.com
 127.0.0.1 gts-ads.twistbox.com
 127.0.0.1 static.cdn.gtsmobi.com
@@ -248,7 +240,6 @@
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 hybl9bazbc35.pflexads.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
-127.0.0.1 www.pflexads.com
 127.0.0.1 orencia.pflexads.com
 127.0.0.1 cdn.celtra.com
 127.0.0.1 ads.celtra.com
@@ -522,7 +513,6 @@
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 proxy-mob-cld.alicdn.com
-127.0.0.1 www.uyunad.com
 127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashbc.ut.taobao.com
@@ -580,14 +570,6 @@
 127.0.0.1 *.gdt.qq.com
 127.0.0.1 *.duiba.com.cn
 127.0.0.1 *.tatagou.com.cn
-127.0.0.1 *.ads.oppomobile.com
-127.0.0.1 *.go.sohu.com
-127.0.0.1 *.epro.sogou.com
-127.0.0.1 *.golden1.sogou.com
-127.0.0.1 *.uranus.sogou.com
-127.0.0.1 *.inte.sogoucdn.com
-127.0.0.1 *.lu.sogoucdn.com
-127.0.0.1 *.theta.sogoucdn.com
 127.0.0.1 *.deliver.ifeng.com
 127.0.0.1 *.aty.sohu.com
 127.0.0.1 *.atm.youku.com
