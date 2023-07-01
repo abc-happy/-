@@ -181,8 +181,6 @@
 127.0.0.1 click.buzzcity.net
 127.0.0.1 stats.pflexads.com
 127.0.0.1 a.glcdn.co
-127.0.0.1 apps.buzzcity.net
-127.0.0.1 ads.mobgold.com
 127.0.0.1 android.bcfads.com
 127.0.0.1 show.buzzcity.net
 127.0.0.1 api.analytics.omgpop.com
@@ -202,7 +200,6 @@
 127.0.0.1 s0.2mdn.net
 127.0.0.1 bigmobileads.com
 127.0.0.1 ads.mopub.com
-127.0.0.1 oasc04012.247realmedia.com
 127.0.0.1 assets.cntdy.mobi
 127.0.0.1 ad.leadboltapps.net
 127.0.0.1 api.airpush.com
@@ -210,7 +207,6 @@
 127.0.0.1 cdn1.crispadvertising.com
 127.0.0.1 cdn2.crispadvertising.com
 127.0.0.1 rs-staticart.ybcdn.net
-127.0.0.1 img.ads.taptapnetworks.com
 127.0.0.1 adserver.ubiyoo.com
 127.0.0.1 c753738.r38.cf2.rackcdn.com
 127.0.0.1 edge.reporo.net
@@ -218,9 +214,6 @@
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 asotrack1.fluentmobile.com
-127.0.0.1 apps.mobilityware.com
-127.0.0.1 ads.mobilityware.com
-127.0.0.1 ads.admarvel.com
 127.0.0.1 netdna.reporo.net
 127.0.0.1 cdn.trafficforce.com
 127.0.0.1 gts-ads.twistbox.com
@@ -247,8 +240,6 @@
 127.0.0.1 wv.inner-active.mobi
 127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 m2m1.inner-active.mobi
-127.0.0.1 a.applovin.com
-127.0.0.1 d.applovin.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 mobpartner.mobi
 127.0.0.1 go.mobpartner.mobi
@@ -321,7 +312,6 @@
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 afs.googlesyndication.com
-127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
 127.0.0.1 media.admob.com
@@ -367,7 +357,6 @@
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 wisepush.video.baidu.com
-127.0.0.1 hmma.baidu.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 sp0.baidu.com
 127.0.0.1 qapm.baidu.com
