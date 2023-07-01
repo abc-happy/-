@@ -4,14 +4,11 @@
 20.205.243.166 github.com     〉直连
 172.217.163.42 translate.googleapis.com  >谷歌翻译
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
-#pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
+
+#贴吧 微信 酷安QQ 三星应用商店 盖乐世社区 
 127.0.0.1 worldgz.photo.store.qq.com
 127.0.0.1 show6.gtimg.cn
 127.0.0.1 gchat.qpic.cn
-127.0.0.1 livew.l.qq.com #-> 腾讯视频
-127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
-127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
-#贴吧 微信 酷安QQ 三星应用商店 盖乐世社区 
 127.0.0.1 szlong.weixin.qq.com
 127.0.0.1 galaxystore.ad-survey.com
 127.0.0.1 tbsone.imtt.qq.com
