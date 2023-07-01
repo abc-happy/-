@@ -238,8 +238,6 @@
 127.0.0.1 c.vserv.mobi
 127.0.0.1 ads.vserv.mobi
 127.0.0.1 sf.vserv.mobi
-127.0.0.1 hybl9bazbc35.pflexads.com
-127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 orencia.pflexads.com
 127.0.0.1 cdn.celtra.com
 127.0.0.1 ads.celtra.com
@@ -264,7 +262,6 @@
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 media.mydas.mobi
 127.0.0.1 ads.mp.mydas.mobi
-127.0.0.1 campaign-tapad.s3.amazonaws.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 r.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
@@ -274,15 +271,6 @@
 127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 mdn3.phluantmobile.net
 127.0.0.1 mdn3origin.phluantmobile.net
-127.0.0.1 akamai.smartadserver.com
-127.0.0.1 cdn1.smartadserver.com
-127.0.0.1 diff.smartadserver.com
-127.0.0.1 diff2.smartadserver.com
-127.0.0.1 diff3.smartadserver.com
-127.0.0.1 eqx.smartadserver.com
-127.0.0.1 im2.smartadserver.com
-127.0.0.1 itx5-publicidad.smartadserver.com
-127.0.0.1 itx5.smartadserver.com
 127.0.0.1 ads.mobclix.com
 127.0.0.1 ads2.greystripe.com
 127.0.0.1 adsx.greystripe.com
@@ -325,7 +313,6 @@
 127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
-127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 ad.jp.doubleclick.netI
 127.0.0.1 adclick.g.doublecklick.net
