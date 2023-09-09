@@ -11,7 +11,7 @@
 127.0.0.1 mp.weixin.qq.com/mp/getappmsgad
 127.0.0.1 mp.weixin.qq.com/mp/ad_monitor
 127.0.0.1 mp.weixin.qq.com/mp/ad_biz_info
-127.0.0.1 wxsnsdythumb.wxs.qq.com^
+127.0.0.1 wxsnsdythumb.wxs.qq.com
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 r.admob.com/ad_source.php
