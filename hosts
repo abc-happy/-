@@ -6,6 +6,18 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安
+127.0.0.1 ad.weixin.qq.com
+127.0.0.1 badjs.weixinbridge.com
+127.0.0.1 as.weixin.qq.com
+127.0.0.1 dns.weixin.qq.cn
+127.0.0.1 dns.weixin.qq.com
+127.0.0.1 dns.weixin.qq.com.cn
+127.0.0.1 weixin.adx1.com
+127.0.0.1 weixin.imagecdn.zhongwcs.com
+127.0.0.1 weixin.qq.hellocdn.top
+127.0.0.1 weixin.qq.huigun.top
+127.0.0.1 weixin.renrenying.com
+127.0.0.1 ad.weibo.com
 127.0.0.1 us-api.samsungyosemite.com
 127.0.0.1 openapi.samsung.com
 127.0.0.1 conff.dc.oppomobile.com
