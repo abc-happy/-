@@ -89,7 +89,6 @@
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 ib.snssdk.com
 127.0.0.1 android.bugly.qq.com
-127.0.0.1 resstatic.servicewechat.com
 127.0.0.1 id6.me
 127.0.0.1 sdktmp.hubcloud.com.cn
 127.0.0.1 update.pan.baidu.com
@@ -122,8 +121,7 @@
 127.0.0.1 storedatasync.ad-survey.com
 127.0.0.1 cc.dace.hupu.com
 127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
-127.0.0.1 whoami.akamai.net
-.127.0.0.1 tmfsdktcpv4.m.qq.com
+127.0.0.1 tmfsdktcpv4.m.qq.com
 127.0.0.1 app-measurement.com
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
