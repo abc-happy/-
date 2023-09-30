@@ -6,6 +6,232 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安
+
+127.0.0.1 localhost
+127.0.0.1 a.ssl.msdk.qq.com
+127.0.0.1 a0.app.xiaomi.com
+127.0.0.1 aaid.umeng.com
+127.0.0.1 ad.mi.com
+127.0.0.1 ad.qq.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
+127.0.0.1 adsmind.gdtimg.com
+127.0.0.1 adstats.tencentmusic.com
+127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 advsec.miui.com
+127.0.0.1 aeventlog.beacon.qq.com
+127.0.0.1 aexception.bugly.qq.com
+127.0.0.1 aid.video.qq.com
+127.0.0.1 alibabacloud.com
+127.0.0.1 analy.qq.com
+127.0.0.1 analytics.db.miui.com
+127.0.0.1 analytics.map.qq.com
+127.0.0.1 analytics.miui.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao1.com
+127.0.0.1 api-installer.pt.xiaomi.com
+127.0.0.1 api-middle.transfer.sec.miui.com
+127.0.0.1 api.access.pangolin-sdk-toutiao.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 api.developer.xiaomi.com
+127.0.0.1 api.e.kuaishou.com
+127.0.0.1 api.hybrid.intl.xiaomi.com
+127.0.0.1 api.hybrid.xiaomi.com
+127.0.0.1 api.installer.xiaomi.com
+127.0.0.1 api.joyose.miui.com
+127.0.0.1 api.jr.mi.com
+127.0.0.1 api.kingdata.ksyun.com
+127.0.0.1 api.miui.security.xiaomi.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 api.xunyou.mobi
+127.0.0.1 api2.e.kuaishou.com
+127.0.0.1 apm-rum.inf.miui.com
+127.0.0.1 app.ingame.qq.com
+127.0.0.1 app.market.xiaomi.com
+127.0.0.1 astat.bugly.qq.com
+127.0.0.1 auth.be.sec.miui.com
+127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 b.gtimg.com
+127.0.0.1 bds.snssdk.com
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 beacon.qq.com
+127.0.0.1 bugly.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 c.isdspeed.qq.com
+127.0.0.1 c.l.qq.com
+127.0.0.1 c.sayhi.360.cn
+127.0.0.1 c2.l.qq.com
+127.0.0.1 centertime.ksyun.com
+127.0.0.1 child.sec.intl.miui.com
+127.0.0.1 child.sec.miui.com
+127.0.0.1 connect-milink.g.mi.com
+127.0.0.1 d.gdt.qq.com
+127.0.0.1 data.game.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.sec.intl.miui.com
+127.0.0.1 data.sec.miui.com
+127.0.0.1 di.ssl.msdk.qq.com
+127.0.0.1 dig.bdurl.net
+127.0.0.1 dlied5.qq.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 dp3.qq.com
+127.0.0.1 dsp-x.jd.com
+
+127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
+
+127.0.0.1 e.kuaishou.com
+
+127.0.0.1 e.qq.com
+
+127.0.0.1 embed.sec.miui.com
+
+127.0.0.1 extlog.snssdk.com
+
+127.0.0.1 file.market.xiaomi.com
+
+127.0.0.1 flash.sec.miui.com
+
+127.0.0.1 flow.qq.com
+
+127.0.0.1 fourier.taobao.com
+
+127.0.0.1 fw.qq.com
+
+127.0.0.1 gamebox.sec.miui.com
+
+127.0.0.1 gromore.pangolin-sdk-toutiao.com
+
+127.0.0.1 gw.365you.com
+
+127.0.0.1 h-adashx.ut.taobao.com
+
+127.0.0.1 h.trace.qq.com
+127.0.0.1 h5api.taobao.com
+
+127.0.0.1 httpdns-sc.aliyuncs.com
+127.0.0.1 httpring.qq.com
+127.0.0.1 i.snssdk.com
+
+127.0.0.1 idcconfig.gcloudsdk.com
+
+127.0.0.1 ii.gdt.qq.com
+127.0.0.1 imc.l.qq.com
+
+127.0.0.1 img.ssl.msdk.qq.com
+
+127.0.0.1 img14.360buyimg.com
+
+127.0.0.1 imtt.dd.qq.com
+
+127.0.0.1 ios.bugly.qq.com
+
+127.0.0.1 ip6-localhost
+
+127.0.0.1 ipv4.gdt.qq.com
+
+127.0.0.1 is.snssdk.com
+
+127.0.0.1 l.qq.com
+
+127.0.0.1 lcsdk.3g.qq.com
+
+127.0.0.1 link.g.mi.com
+
+127.0.0.1 list3.ppstream.com.iqiyi.com
+
+127.0.0.1 livep.l.qq.com
+
+127.0.0.1 lives.l.qq.com
+
+127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
+
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+
+127.0.0.1 log.mmstat.com
+
+127.0.0.1 log.tbs.qq.com
+
+127.0.0.1 log.tpns.sh.tencent.com
+
+127.0.0.1 log.tpns.tencent.com
+
+127.0.0.1 log.wtlogin.qq.com
+
+127.0.0.1 log1wtlogin.qq.com
+
+127.0.0.1 logsdk.qq.com
+
+127.0.0.1 m.gdt.qq.com
+
+127.0.0.1 m.v.qq.com
+
+127.0.0.1 masdk.3g.qq.com
+
+127.0.0.1 mi.gdt.qq.com
+
+127.0.0.1 miav-cse.avlyun.com
+
+127.0.0.1 milink.ac.mi.com
+
+127.0.0.1 misc.wcd.qq.com
+
+127.0.0.1 miui-fxcse.avlyun.com
+
+127.0.0.1 miuipro.info
+
+127.0.0.1 mixer.cupid.iqiyi.com
+127.0.0.1 monitor.uu.qq.com
+
+127.0.0.1 msdk.qq.com
+
+127.0.0.1 msg.iqiyi.com
+
+127.0.0.1 msg.video.qiyi.com
+
+127.0.0.1 mssdk-bu.snssdk.com
+
+127.0.0.1 nadvideo.baidu.com
+
+127.0.0.1 nadvideo2.baidu.com
+
+127.0.0.1 nc.gdt.qq.com
+
+127.0.0.1 news.l.qq.com
+
+127.0.0.1 notice.ppstream.com
+
+127.0.0.1 omgmta.qq.com
+
+127.0.0.1 open.e.kuaishou.com
+
+127.0.0.1 orbit.jd.com
+
+127.0.0.1 ota.miuipro.org
+
+127.0.0.1 ota.miuipro.ru
+
+127.0.0.1 p.l.qq.com
+
+127.0.0.1 pangolin.snssdk.com
+
+127.0.0.1 pay.xunyou.mobi
+
+127.0.0.1 pgdt.ugdtimg.com
+
+127.0.0.1 pic1.qiyipic.com
+
+127.0.0.1 pingfore.qq.com
+
+127.0.0.1 pingjs.qq.com
+
+127.0.0.1 pingma.qq.com
+
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 as.weixin.qq.com
