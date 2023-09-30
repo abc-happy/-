@@ -5,7 +5,9 @@
 172.217.163.42 translate.googleapis.com  >谷歌翻译
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 
-#贴吧 微信 酷安QQ 三星应用商店 盖乐世社
+#贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安
+127.0.0.1 dsp-x.jd.com
+127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
 127.0.0.1 dsp-x.jd.com
 127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
 127.0.0.1 mp.weixin.qq.com
