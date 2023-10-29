@@ -581,7 +581,6 @@
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 access1.tpns.tencent.com
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
-127.0.0.1 mp.weixin.qq.com
 127.0.0.1 szextshort.weixin.qq.com
 127.0.0.1 datasync.ad-survey.com
 127.0.0.1 galaxystore.ad-survey.com
@@ -601,7 +600,6 @@
 127.0.0.1 tools.3g.qq.com
 127.0.0.1 app-measurement.com
 127.0.0.1 eco.taobao.compgdt.gtimg.cn
-127.0.0.1 szextshort.weixin.qq.com
 #pkg=qq.com;腾讯广告服务
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adping.qq.com
