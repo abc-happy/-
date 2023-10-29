@@ -6,6 +6,11 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安
+127.0.0.1 *.weixin.qq.com
+127.0.0.1 szextshort.weixin.qq.com
+127.0.0.1 szshort.weixin.qq.com
+127.0.0.1 dns.weixin.qq.com.cn
+127.0.0.1 res.wx.qq.com
 127.0.0.1 szminorshort.weixin.qq.com
 
 127.0.0.1 pingtcss.qq.com
