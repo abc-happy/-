@@ -5,7 +5,15 @@
 172.217.163.42 translate.googleapis.com  >谷歌翻译
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 
-#贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安
+#贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安 微博
+127.0.0.0 h5.sinaimg.cn
+127.0.0.0 ipa.im.weibo.cn
+127.0.0.0 dp.im.wei.cn
+127.0.0.0 gw.im.weibo.cn
+127.0.0.0 gw1.im.weibo .cn
+127.0.0.0 biz.weibo.com
+127.0.0.0 sdkapp.uve.weibo.com
+127.0.0.0 ip.taobao.com
 127.0.0.1 *.qq.com
 127.0.0.1 *.*.qq.com
 127.0.0.1 *.qpic.cn
