@@ -6,17 +6,6 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
 
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安 微博
-127.0.0.1 youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?\"\}\}\}\]\,/', '', '/player\?key=|watch\?v=/')
-127.0.0.1 youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('trusted-replace-fetch-response', '/\"adPlacements.*?\"\}\}\}\]\,/', '', 'player?key=')
-127.0.0.1 youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('trusted-replace-fetch-response', '/\"adSlots.*?\}\]\}\}\]\,/', '', 'player?key=')
-127.0.0.1 m.youtube.com#@%#//scriptlet('trusted-replace-fetch-response', '/\"playerAds.*?\}\}\]\,/', '', 'player?key=')
-127.0.0.1 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
-127.0.0.1 youtube.com#%#//scriptlet('set-constant', 'google_ad_status', '1')
-127.0.0.1 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
-127.0.0.1 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adSlots', 'undefined')
-127.0.0.1 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.playerAds', 'undefined')
-127.0.0.1 youtube.com##ytm-companion-slot
-127.0.0.1 youtube.com#%#//scriptlet('set-constant', 'google_ad_status', '1')
 127.0.0.1 localhost
 127.0.0.1 game.weibo.com
 127.0.0.1 gw6.push.mcp.weibo.cn
