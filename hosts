@@ -92,21 +92,10 @@
 127.0.0.1 *.*.qpic.cn
 127.0.0.1 *mmsns.qpic.cn
 127.0.0.1 shmmsns.qpic.cn
-127.0.0.1 weixin.qq.com
-127.0.0.1 vweixinf.tc.qq.com
-127.0.0.1 wxapp.tc.qq.com
 127.0.0.1 wx.qlogo.cn
 127.0.0.1 szmmsns.qpic.cn
 127.0.0.1 janapi.jd.com
 127.0.0.1 mmbiz.qpic.cn
-127.0.0.1 dldir1v6.qq.com
-127.0.0.1 dldir1.qq.com
-127.0.0.1 *.weixin.qq.com
-127.0.0.1 szextshort.weixin.qq.com
-127.0.0.1 szshort.weixin.qq.com
-127.0.0.1 dns.weixin.qq.com.cn
-127.0.0.1 res.wx.qq.com
-127.0.0.1 szminorshort.weixin.qq.com
 
 127.0.0.1 pingtcss.qq.com
 
