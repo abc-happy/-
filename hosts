@@ -88,7 +88,6 @@
 127.0.0.0 biz.weibo.com
 127.0.0.0 sdkapp.uve.weibo.com
 127.0.0.0 ip.taobao.com
-127.0.0.1 *.qq.com
 127.0.0.1 *.qpic.cn
 127.0.0.1 *.*.qpic.cn
 127.0.0.1 *mmsns.qpic.cn
