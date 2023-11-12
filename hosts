@@ -651,7 +651,6 @@
 127.0.0.1 h.trace.qq.com
 127.0.0.1 mpush-api.aliyun.com
 127.0.0.1 wgo.mmstat.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 dm-hl.toutiao.com
 127.0.0.1 public.gdtimg.com
 127.0.0.1 ifs.tanx.com
@@ -731,9 +730,6 @@
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 ta.qq.com
 127.0.0.1 p.tencentmind.com
-127.0.0.1 e.qq.com
-127.0.0.1 cm.e.qq.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 dp3.qq.com
 127.0.0.1 us.l.qq.com
