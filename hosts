@@ -6,7 +6,7 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
  
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安 微博
-127.0.0.1 *.app.coc.10086.cn
+
 127.0.0.1 *.dutils.com
 127.0.0.1 *.umeng.com
 127.0.0.1 client.app.coc.10086.cn
@@ -25,13 +25,13 @@
 127.0.0.1 alitui.weibo.com
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 widget.weibo.com
-127.0.0.1 c.biz.weibo.com
+127.0.0.1 *.biz.weibo.com
 127.0.0.1 c.wcpt.biz.weibo.com
 127.0.0.1 ad3.sina.com.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 tjs.sjs.sinajs.cn
 127.0.0.1 wbclick.mobile.sina.cn
-127.0.0.1 d1.sina.com.cn
+127.0.0.1 d1.sina.com.*
 127.0.0.1 ads.sina.com
 127.0.0.1 r.dmp.sina.cn
 127.0.0.1 d8.sina.com.cn
@@ -107,7 +107,7 @@
 
 127.0.0.1 pingtcss.qq.com
 
-127.0.0.1 pmir.3g.qq.com
+127.0.0.1 *.3g.qq.com
 
 127.0.0.1 portal.xunyou.mobi
 
@@ -139,9 +139,7 @@
 
 127.0.0.1 rpt.gdt.qq.com
 
-127.0.0.1 rs1.qq.com
-
-127.0.0.1 rs2.qq.com
+127.0.0.1 rs*.qq.com
 
 127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
 
