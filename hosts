@@ -6,7 +6,7 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
  
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安 微博
-
+127.0.0.1 client.app.coc.10086.cn
 127.0.0.1 *.dutils.com
 127.0.0.1 *.umeng.com
 127.0.0.1 tc.qq.com
