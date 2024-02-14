@@ -6,6 +6,27 @@
 0.0.0.0 raw.githubusercontent.com >直连订阅链接更新
  
 #贴吧 微信 酷安QQ 三星应用商店 盖乐世社 酷安 微博
+
+127.0.0.1 tdid.m.qq.com
+127.0.0.1 pl.adkwai.com
+127.0.0.1 tcbox.baidu.com
+127.0.0.1 tb.himg.baidu.com
+127.0.0.1 p1-Im.adkwai.com
+127.0.0.1 gdfp.gifshow.com
+127.0.0.1 rpe.xdplt.com
+127.0.0.1 js.a.kspkg.com
+127.0.0.1 p2-m.adukwai.com
+127.0.0.1 spO.baidu.com
+127.0.0.1 tiebac.baidu.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 qzs.gdtimg.com
+127.0.0.1 open.e.kuaishou.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 als.baidu.com
+127.0.0.1 afdconf.baidu.com
+127.0.0.1 tiebapic.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 sofire.baidu.com
 ||*-lf.douyin.com^
 ||*log*-applog-*.fqnovel.com^
 ||*-toutiao*.com^
